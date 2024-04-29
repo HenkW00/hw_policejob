@@ -1,23 +1,23 @@
 # HW Scripts - Advanced Police Job (Rewritten)
 
-**Description**
+## Description
 This is an advanced police job using OX Lib.
 Script got rewritten by HW Development
 
-**Author**
+## Author
 - HW Development | HenkW
 
-🛠 **Requirements**
+## 🛠 Requirements
 - ESX Server
 - OX Lib
 - MySQL-Async
 
-🌐 **Requirements Download links**
+## 🌐 Requirements Download links
 - es_extended: [https://github.com/esx-framework/esx_core]
 - ox_lib: [https://github.com/overextended/ox_lib]
 - mysql-async: [https://github.com/brouznouf/fivem-mysql-async]
 
-✅ **Features**
+## ✅ Features
 - Multiple LEO departments (No need for separate scripts for separate police jobs)
 - Full handcuff props and animations
 - Keybinds for arrest (Configurable)
@@ -34,7 +34,7 @@ Script got rewritten by HW Development
 - Garage for land & air (Configurable by job grade)
 - Optimized with 0.00ms idle
 
-🔧 **Download & Installation**
+## 🔧 Download & Installation
 Follow these steps to set up the police job script on your ESX server:
 
 1. **Download the Files**: Download the script files from the provided source.
