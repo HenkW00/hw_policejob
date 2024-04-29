@@ -1,8 +1,7 @@
 # HW Scripts - Advanced Police Job (Rewritten)
 
 ## Description
-This is an advanced police job using OX Lib.
-Script got rewritten by HW Development
+This advanced police job script, rewritten by HW Development, offers a comprehensive law enforcement experience. It integrates seamlessly with OX Lib, providing flexibility and customization options for ESX servers. With support for multiple LEO departments, realistic handcuff animations, configurable keybinds, and compatibility with popular inventory systems, it enhances roleplay diversity while simplifying server management. Tackling mechanics, job menus, fine systems, boss menus, cloakroom features, optional target systems, armory access, and garages for vehicles are included. Despite its rich feature set, it maintains optimal performance with 0.00ms idle time. Enjoy enhanced law enforcement gameplay with minimal setup hassle!
 
 ## Author
 - HW Development | HenkW
