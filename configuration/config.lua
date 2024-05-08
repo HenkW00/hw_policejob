@@ -10,7 +10,7 @@ Config.jobMenu = 'F6' -- Default job menu key
 
 Config.customCarlock = false -- Add your own carlock system in client/cl_customize.lua
 Config.billingSystem = false -- Current options: 'esx' (For esx_billing) / 'okok' (For okokBilling) (Easy to add more/fully customize in client/cl_customize.lua)
-Config.skinScript = true -- Current options: 'esx' (For esx_skin) / 'appearance' (For hw_policejob-fivem-appearance) (Custom can be added in client/cl_customize.lua)
+Config.skinScript = true -- Current options: 'esx' (For esx_skin) / 'appearance' (fivem-appearance) (Custom can be added in client/cl_customize.lua)
 Config.customJail = true -- Set to true if you want to add jail option to menu(Requires you to edit hw_policejob:sendToJail event in client/cl_customize.lua)
 
 Config.inventory = 'ox' -- NEEDED FOR SEARCHING PLAYERS - Current options: 'ox' (For ox_inventory) / 'mf' (For mf inventory) / 'qs' (For qs_inventory) / 'cheeza' (For cheeza_inventory) / 'custom' (Custom can be added in client/cl_customize.lua)

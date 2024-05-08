@@ -3,8 +3,8 @@ game 'gta5'
 lua54 'yes'
 
 author 'HenkW'
-description 'ESX Advanced Police Job'
-version '2.0.3'
+description 'Advanced Police Job using ox_lib'
+version '2.0.4'
 
 shared_scripts {
   '@ox_lib/init.lua',
@@ -25,9 +25,16 @@ dependencies {
   'es_extended',
   'mysql-async',
   'ox_lib',
-  '/assetpacks'
+  '/assetpacks',
+  'hw_utils'
 }
 
 provides {
   'esx_policejob'
+}
+
+escrow_ignore {
+  'configuration/*.lua',
+  'fxmanifest.lua',
+  'README.MD'
 }
